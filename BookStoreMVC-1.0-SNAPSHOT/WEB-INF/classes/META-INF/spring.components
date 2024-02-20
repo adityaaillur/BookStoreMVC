@@ -1,0 +1,8 @@
+com.info6250.controller.aboutController=org.springframework.stereotype.Component
+com.info6250.controller.bookController=org.springframework.stereotype.Component
+com.info6250.controller.homeController=org.springframework.stereotype.Component
+com.info6250.controller.loginController=org.springframework.stereotype.Component
+com.info6250.dao.bookDao=org.springframework.stereotype.Component
+com.info6250.dao.userDao=org.springframework.stereotype.Component
+com.info6250.pojo.Book=org.springframework.stereotype.Component
+com.info6250.validator.bookValidator=org.springframework.stereotype.Component
